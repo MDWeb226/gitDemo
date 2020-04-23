@@ -6,4 +6,6 @@
 	echo "OMG PHP is so much fun!";
 	
 	echo "PHP is not that fun!";
+	
+	echo "PHP is indeed fun";
 ?>

@@ -8,4 +8,6 @@
 	echo "PHP is not that fun!";
 
 	echo "Demo conflict on Github";
+	
+	echo "PHP is indeed fun";
 ?>
